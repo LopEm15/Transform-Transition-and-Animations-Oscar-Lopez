@@ -23,5 +23,6 @@ button {
 }
 
 button:hover {
+  color: white;
   background-color: cornflowerblue;
 }
